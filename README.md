@@ -1,6 +1,6 @@
 # Client_Behaviour_Classification
 
-Developed a machine learning model that predicts whether a client will subsccribe to term deposits offered by a bank or not based on 20 input features including age, job, marital status, education, whether the client has housing or personal loans etc. The dataset was sourced from UCI ML Repository.
+Developed a machine learning model that predicts whether a client will subscribe to term deposits offered by a bank or not based on 20 input features including age, job, marital status, education, whether the client has housing or personal loans etc. The dataset was sourced from UCI ML Repository.
 
 Feature selection techniques such as Chi-squared statistics and Mutual Information statistics were used to identify the most influential factors.
 
